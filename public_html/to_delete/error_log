@@ -1,0 +1,6 @@
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/to_delete/index - orig.php on line 3
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/to_delete/index - orig.php on line 3
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/to_delete/index - orig.php on line 3
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/to_delete/index - orig.php on line 175
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/to_delete/index - orig.php on line 175
+[29-Jan-2016 16:37:26 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/to_delete/index - orig.php on line 175

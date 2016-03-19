@@ -1,0 +1,27 @@
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[14-Feb-2016 13:01:04 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 142
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 5
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 11
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[14-Feb-2016 13:01:10 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 142
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 5
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 5
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 11
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 11
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/styles/index.php on line 142
+[15-Feb-2016 23:48:25 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/styles/index.php on line 142

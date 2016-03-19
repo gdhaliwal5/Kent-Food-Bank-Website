@@ -1,0 +1,128 @@
+[28-Feb-2016 10:04:24 America/Chicago] PHP Warning:  require(../../db/db.php): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 8
+[28-Feb-2016 10:04:24 America/Chicago] PHP Warning:  require(../../db/db.php): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 8
+[28-Feb-2016 10:04:24 America/Chicago] PHP Fatal error:  require(): Failed opening required '../../db/db.php' (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 8
+[28-Feb-2016 10:04:43 America/Chicago] PHP Notice:  Undefined variable: result in /home/team2/public_html/Includes/update/list_records.php on line 29
+[28-Feb-2016 10:04:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/team2/public_html/Includes/update/list_records.php on line 29
+[28-Feb-2016 10:04:43 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 48
+[28-Feb-2016 10:06:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 31
+[28-Feb-2016 10:06:14 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 50
+[28-Feb-2016 10:07:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 31
+[28-Feb-2016 10:07:47 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 50
+[28-Feb-2016 10:08:50 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/list_records.php on line 13
+[28-Feb-2016 10:08:50 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/list_records.php on line 13
+[28-Feb-2016 10:08:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/team2/public_html/Includes/update/list_records.php on line 31
+[28-Feb-2016 10:08:50 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 50
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 36
+[28-Feb-2016 10:10:14 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 38
+[28-Feb-2016 10:10:14 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 51
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Notice:  Undefined variable: rows in /home/team2/public_html/Includes/update/list_records.php on line 41
+[28-Feb-2016 10:11:54 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 54
+[28-Feb-2016 10:15:25 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 56
+[28-Feb-2016 10:16:09 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 56
+[28-Feb-2016 10:16:13 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 56
+[28-Feb-2016 10:17:34 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 56
+[28-Feb-2016 10:17:36 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 56
+[28-Feb-2016 10:22:14 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:22:14 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:22:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/team2/public_html/Includes/update/update.php on line 16
+[28-Feb-2016 10:23:42 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:23:42 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:23:42 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/update.php on line 16
+[28-Feb-2016 10:24:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:04 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/update.php on line 16
+[28-Feb-2016 10:24:38 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:38 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:38 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/update.php on line 16
+[28-Feb-2016 10:24:43 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:43 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update.php on line 15
+[28-Feb-2016 10:24:43 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/update.php on line 16
+[29-Feb-2016 13:01:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/team2/public_html/Includes/update/update.php on line 31
+[29-Feb-2016 13:17:45 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 18
+[29-Feb-2016 13:17:45 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 18
+[29-Feb-2016 13:18:20 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 20
+[29-Feb-2016 13:18:20 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 20
+[29-Feb-2016 13:18:27 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 20
+[29-Feb-2016 13:18:27 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 20
+[29-Feb-2016 13:20:28 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 13:20:28 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 13:20:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 13:20:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 13:21:41 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:21:41 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:50 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:50 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:53 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:23:53 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:27:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/team2/public_html/Includes/update/update_ac.php on line 9
+[29-Feb-2016 13:27:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/team2/public_html/Includes/update/update_ac.php on line 9
+[29-Feb-2016 13:27:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/team2/public_html/Includes/update/update_ac.php on line 9
+[29-Feb-2016 13:35:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:35:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/team2/public_html/Includes/update/update_ac.php on line 5
+[29-Feb-2016 13:40:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/public_html/Includes/update/update_ac.php:13) in /home/team2/public_html/Includes/update/update_ac.php on line 15
+[29-Feb-2016 13:51:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/team2/public_html/Includes/update/list_records.php on line 20
+[29-Feb-2016 13:51:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/team2/public_html/Includes/update/list_records.php on line 13
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 30
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 30
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 30
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 106
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 106
+[29-Feb-2016 13:51:45 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 106
+[29-Feb-2016 13:53:11 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 3
+[29-Feb-2016 13:53:11 America/Chicago] PHP Warning:  include(header.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 3
+[29-Feb-2016 13:53:11 America/Chicago] PHP Warning:  include(): Failed opening 'header.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 3
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 108
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(footer.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 108
+[29-Feb-2016 13:54:21 America/Chicago] PHP Warning:  include(): Failed opening 'footer.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 108
+[29-Feb-2016 13:54:35 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 13:54:35 America/Chicago] PHP Warning:  include(menu.html): failed to open stream: No such file or directory in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 13:54:35 America/Chicago] PHP Warning:  include(): Failed opening 'menu.html' for inclusion (include_path='.:/opt/php54/lib/php') in /home/team2/public_html/Includes/update/list_records.php on line 28
+[29-Feb-2016 14:03:34 America/Chicago] PHP Fatal error:  Call to undefined function close() in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:04:40 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:06:40 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:06:44 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:06:46 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:07:01 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:07:05 America/Chicago] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:08:46 America/Chicago] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/team2/public_html/Includes/update/list_records.php on line 95
+[29-Feb-2016 14:10:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:24) in /home/team2/public_html/Includes/update/update_ac.php on line 13
+[29-Feb-2016 14:11:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:24) in /home/team2/public_html/Includes/update/update_ac.php on line 18
+[29-Feb-2016 14:13:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:24) in /home/team2/public_html/Includes/update/update_ac.php on line 11
+[29-Feb-2016 14:14:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:24) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 14:14:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:24) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 14:15:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:21) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 14:15:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:21) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 14:15:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:21) in /home/team2/public_html/Includes/update/update_ac.php on line 12
+[29-Feb-2016 14:16:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/team2/db/db.php:21) in /home/team2/public_html/Includes/update/update_ac.php on line 12
